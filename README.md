@@ -8,11 +8,11 @@
 
 Fluent in 🇨🇳Chinese/🇯🇵Japanese/🇺🇸English. 🌏
 
-I am a new 2D anime compositor and technical artist in an anime company. 🎬📱 
+I am a 2D anime compositor and technical artist. 
 
 I develop tools for anime production (AE scripts, plugins, desktop software, etc.) and used to work as a freelance 2D anime compositor (mainly for fan works)! 📸🖥️
 
-I use C/C++, Python, JavaScript/TypeScript. 💻
+I use C/C++, Python, Rust, JavaScript/TypeScript. 💻
 
 And I also enjoy photography and watching films! 🎥📷
 
